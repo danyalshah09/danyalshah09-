@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danyla Shah</h1>
+<h1 align="center">Hi 👋, I'm Danyal Shah</h1>
 <h3 align="center">A passionate and Curious frontend Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danyalshah09&label=Profile%20views&color=0e75b6&style=flat" alt="danyalshah09" /> </p>
